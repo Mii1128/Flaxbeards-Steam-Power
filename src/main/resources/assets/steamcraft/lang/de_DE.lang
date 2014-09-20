@@ -61,7 +61,7 @@ steamcraft.waila.complete=Fertig
 steamcraft.waila.filling=Füllt
 steamcraft.waila.mold=Form:
 
-steamcraft.exosuit.thrustTick=verbrauch pro Tick bei Benutzung der Düsen
+steamcraft.exosuit.thrustTick=verbrauch pro Tick bei Benutzung der Triebwerke
 steamcraft.exosuit.flyTick=verbrauch pro Tick beim FLiegen
 steamcraft.exosuit.shroud=Getarnt
 steamcraft.exosuit.level=Level
@@ -217,6 +217,16 @@ research.ExoDyes.0=Ich kann jeden gewöhnlichen Farbstoff ins Deko-Fach tun und 
 research.EnderShroud.name=Endertarner
 research.EnderShroud.0=Der Endertarner erlaubt es mir meine Skin zu zeigen und gleichzeitig geschutzt zu sein indem er die Dampfrüstung Komplett unsichtbar macht. Da das Gerät jedoch nicht Perfekt ist sieht man die rüstung flackern wenn ich getroffen werde.
 
+research.ExoHeadHelm.name=Helmfach
+research.ExoHeadGoggle.name=Maskenfach
+research.ExoBack.name=Bückenfach
+research.ExoArm.name=Armfach
+research.ExoHip.name=Hüftenfach
+research.ExoLeg.name=Beinfach
+research.ExoFoot.name=Fußfach
+
+research.FloralLaurel.name=Blumenkranz
+research.FloralLaurel.0=Ich habe es satt jedes mal den Stab zu brauchen wenn ich sehen will wie voll ein Mana-Pool ist. Mit diesem Blumenkranz ausgerüsted sehe ich alle infos von botanoschen Geräten.
 research.Jetpack.name=Turbinenrucksack
 research.Jetpack.0=Ich habe ein aufregendes Modul für das Bruststück der Dampfbetriebenen Rüstung entworfen, welches mich fliegen lässt.<br>Dieser dampfbetriebene Raketenrucksack verbraucht enorme Mengen Dampf, aber Fliegen ist unbezahlbar.
 research.Wings.name=Dampfflügel
@@ -225,6 +235,10 @@ research.Thrusters.name=Triebwerke
 research.Thrusters.0=Für die Hose der Dampfbetriebenen Rüstung habe ich ein neues Modul entworfen, das meine Bewegung verbessert. Diese Düsen beschleunigen meine Bewegung durch die Luft, bei entsprechendem Dampfverbrauch. Ich kann nun weiter springen und schneller fliegen.
 research.Fist.name=Dampffaust
 research.Fist.0=Dieses Modul für das Bruststück der Dampfbetriebenen Rüstung ist eine spaßige Erfindung. Meine Schläge werden dadurch zu richtigen... Schlägen.<br>Wann immer ich einen Gegner mit meiner Faust schlage, fliegt er ein ganzes Stück zurück. Dabei wird Dampf verbraucht.
+research.ExtendoFist.name=Ausfahrarm
+research.ExtendoFist.0=Ich habe einen Weg gefunden meine Armlänge zu vergrößen. Wenn ich meinen Ausfahrarm installiere wird meine Reichweite start erhöht.
+research.PitonDeployer.name=Kletterhaken
+research.PitonDeployer.0=Diese Erfindung hilft mir aus gefährlichen Situationen zu kommen. Wenn ich Rechtklicke auf eine Wand oder Decke neben mir, bleibe ich daran hängen und kann andere Gegenstände verwenden.
 research.FallAssist.name=Sturzbremse
 research.FallAssist.0=Für gefährliches Terrain habe ich dieses Modul für die Stiefel der Dampfbetriebenen Rüstung erfunden. Es verbraucht Dampf um Sturzschäden zu mildern.
 research.Mask.name=Maske der Enthüllung
