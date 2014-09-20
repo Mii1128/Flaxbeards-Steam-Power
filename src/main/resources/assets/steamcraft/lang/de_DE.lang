@@ -2,7 +2,44 @@ steamcraft.book.index=Index
 steamcraft.book.info=Leitfaden zum Dampfbetrieb
 steamcraft.book.by=von
 steamcraft.book.shapeless=Formlos
+steamcraft.book.clickme=Klicke um zum Craftingrezept zu kommen
+steamcraft.book.shiftright=Strg + Klick für Informationen
 item.steamcraft:book.name=Geniale Erfindungen
+potion.partialInvisible=Getarnt
+steamcraft.canned=Eingehülst
+steamcraft.rocket=Raketenart:
+
+steamcraft.plate.bonus=Bonuseffekt:
+steamcraft.plate.copper=Explosionsresistenz
+steamcraft.plate.brass=Feuerresistenz
+steamcraft.plate.iron=Geschossresistenz
+steamcraft.plate.gold=Extra Erfahrung
+steamcraft.plate.terrasteel=Erhöhtes Leben
+steamcraft.plate.thaumium=Vis Discount
+steamcraft.plate.elementum=Erschafft Feen
+steamcraft.plate.fiery=Feueraura
+steamcraft.plate.yeti=Eisaura
+steamcraft.plate.lead=Rückstoßresistenz
+steamcraft.plate.sadist=Erhalte LP bei Verletzung
+steamcraft.plate.vibrant=Teleportation wenn Verletzt
+steamcraft.plate.enderium=Enderaura
+
+steamcraft.color.black=Schwarz Gefärbt
+steamcraft.color.red=Rot Gefärbt
+steamcraft.color.green=Grün Gefärbt
+steamcraft.color.brown=Braun Gefärbt
+steamcraft.color.blue=Blau Gefärbt
+steamcraft.color.purple=Lila Gefärbt
+steamcraft.color.cyan=Cyan Gefärbt
+steamcraft.color.lightgray=Hellgrau Gefärbt
+steamcraft.color.gray=Grau Gefärbt
+steamcraft.color.pink=Rosa Gefärbt
+steamcraft.color.lime=Hellgrün Gefärbt
+steamcraft.color.yellow=Gelb Gefärbt
+steamcraft.color.lightblue=Hellblau Gefärbt
+steamcraft.color.magenta=Magenta Gefärbt
+steamcraft.color.orange=Orange Gefärbt
+steamcraft.color.white=Weiß Gefärbt
 
 steamcraft.astrolabe.target=Ziel:
 steamcraft.astrolabe.noTarget=Kein Ziel!
@@ -24,12 +61,14 @@ steamcraft.waila.complete=Fertig
 steamcraft.waila.filling=Füllt
 steamcraft.waila.mold=Form:
 
-steamcraft.exosuit.thrustTick=consumed per tick of thruster use
-steamcraft.exosuit.flyTick=consumed per flying tick
-
+steamcraft.exosuit.thrustTick=verbrauch pro Tick bei Benutzung der Düsen
+steamcraft.exosuit.flyTick=verbrauch pro Tick beim FLiegen
+steamcraft.exosuit.shroud=Getarnt
+steamcraft.exosuit.level=Level
 category.RecentCreations.name=Neuentwicklungen
 
 category.Basics.name=Grundlagen
+
 research.SteamSystem.name=Dampfanlagen
 research.SteamSystem.0=Bei meinen Forschungen zu den grundlegenden Funktionsweisen dieser Welt, machte ich eine wundersame Entdeckung! Beim Erhitzen wird Wasser gasförmig, genauer: zu Dampf.<br>Desweiteren steigt der Druck an, wenn man diesen Prozess in einer geschlossenen Umgebung durchführt.
 research.SteamSystem.1=Mit einem Sortiment aus Rohren, Kesseln und verschiedenen Maschinen, kann ich eine Anlage zum Messen und Regulieren des Dampfdrucks bauen, um dessen Potential praktisch und profitabel zu nutzen.<br>Jedoch zeigten mir meine Erkenntnisse auf, dass ich meine Vorstellung von Dampf überdenken muss.
@@ -37,8 +76,8 @@ research.SteamSystem.2=Zuerst musste ich feststellen, dass Dampf keine Flüßigk
 research.SteamSystem.3=Es ist daher wichtig, dass ich die Dampfproduktion an die Größe meiner Anlage anpasse. Wenn die Anlage zu groß ist, wird der Druckaufbau zu langsam, um meine Maschinen adäquat zu betreiben. Eine zu kleine Anlage, hat keine ausreichenden Reserven, um die Maschinen lange zu versorgen.
 research.SteamSystem.4=Neue Entwicklungen sind aber nie ohne Risiko. Obwohl die mir zur Verfügung stehenden Materialien sehr robust sind, vertragen sie nur eine begrenzte Last.<br>Wenn ich nicht aufpasse, produziere ich mehr Druck, als meine Anlage aushält. Die Folgen für Maschine und Umgebung sind katastrophal!
 research.SteamSystem.5=Mit Druckmessern, kann ich den Dampfdruck der Anlage kontrollieren.<br>Wenn sich die Nadel zu weit rechts befindet und wild ausschlägt, ist ein gefährliches Niveau erreicht. Mit Ventilen kann ich Dampf ablassen oder, wenn ich vorausgedacht habe, habe ich Berstscheiben verbaut, die nachgeben, bevor meine zerbrechlichen Bauteile Schaden nehmen.
-
 research.Camouflage.name=Rohrverkleidung
+
 research.Camouflage.0=Manchmal ist es besser, wenn ich meine Rohre verberge, als sie offen zu verlegen. Hier kommt meine neue Rohrverkleidung! Umschalttaste und Rechtsklick mit einem Block auf das Rohr, das ich verbergen will, verkleidet es.
 research.Camouflage.1=Verkleidete Rohre sind vollständig verborgen, während von den Boilern ein Aussparung an der Front zu sehen bleibt.<br>Während ich eine Rohrzange halte, kann ich durch die Verkleidung sehen.<br>Umschalttaste und Rechtsklick mit der Zange entfernt die Verkleidung.
 research.Ores.name=Erze
@@ -53,14 +92,18 @@ research.Spyglass.0=Wär hätte gedacht, dass ein paar Glaslinsen und ein Messin
 research.Survivalist.name=Überlebensausrüstung
 research.Survivalist.0=Zu oft schon habe ich meine kostbaren, verzauberten Werkzeuge zerbrochen. Nun habe ich dieses kleine Werkzeug erfunden, welches ich mit mir herumtragen kann. Solange die Überlebensausrüstung in der Schnellzugriffsleiste ist, wird sie mich davon abhalten, Werkzeug zu benutzen, dass dabei ist, zu zerbrechen.
 research.SurvivalistBaubles.0=Zu oft schon habe ich meine kostbaren, verzauberten Werkzeuge zerbrochen. Nun habe ich dieses kleine Werkzeug erfunden, welches ich mit mir herumtragen kann und solche Vorfälle in Zukunft vermeidet. Solange die Überlebensausrüstung am Gürtel getragen wird, wird sie mich davon abhalten, Werkzeug zu benutzen, dass dabei ist, zu zerbrechen.
-
 research.Plates.name=Bleche
-research.Plates.0=Bei der Arbeit mit meinem neuen Gussform-Aufspanner habe ich einen Weg gefunden, Metalle effizienter zu nutzen. Ich kann Bleche gießen, die nur den Bruchteil eines Barren kosten, aber in vielen Fällen an Stelle eines solchen eingesetzt werden können.
 
+research.Plates.0=Bei der Arbeit mit meinem neuen Gussform-Aufspanner habe ich einen Weg gefunden, Metalle effizienter zu nutzen. Ich kann Bleche gießen, die nur den Bruchteil eines Barren kosten, aber in vielen Fällen an Stelle eines solchen eingesetzt werden können.
 category.MetalCasting.name=Metallguss
+
+
+
 research.Crucible.name=Schmelztiegel
 research.Crucible.0=Endlich habe ich einen Weg gefunden, Legierungen verschiedener Metalle zu erstellen: der Schmelztiegel!<br>Um ihn zu nutzen, platziere ich den Schmelztiegel über einem offenen Feuer. Dann kann ich verschiedene Metalle hineinwerfen, aber keine Erze.
 research.Crucible.1=Das Metall wird flüssig und verschmilzt zu einer Legierung, falls möglich. Rechtsklick auf den Schmelztiegel mit einer leeren Hand kippt den Inhalt des Schmelztiegels in eine angrenzende Gussform.
+research.HellCrucible.name=Höllentiegel
+research.HellCrucible.0=Manchmal ist es einfach unpraktisch ein offenes Feuer im Haus zu haben. Meine neueste Erfindung, der Höllentiegel, benötigt, da er die Kraft der Hölle besitzt, keine Externe Hitzequelle und ist damit ein sehr gute ALternative.
 research.Mold.name=Gussform-Aufspanner
 research.Mold.0=Der Schmelztiegel ist nutzlos, wenn man das Metall nicht in die benötigte Form bringen kann. Hier kommen der Gussform-Aufspanner in's Spiel.<br>Einfach einen Aufspanner mit der offenen Seite an einen Schmelztiegel stellen.
 research.Mold.1=Rechtsklick auf den Aufspanner wird ihn öffnen und schließen. Die Gussform kann mit Umschalttaste und Rechtsklick entfernt werden.<br>Um Metall zu gießen, schließe ich den Aufspanner und gieße dann flüssigiges Metall hinein. Anschließend öffne ich ihn wieder und entnehme mein gegossenes Metall.
@@ -81,6 +124,8 @@ research.FlashBoiler.0=Mein Dampfverbrauch steigt kontinuierlich und ich brauche
 research.FlashBoiler.1=Der Schnellheizer wird gebaut indem man seine Bestandteile in einem Quarder von 2x2x2 anordnet. Dann kann ich ihn in Betrieb nehmen. Der Schnellheizer verbraucht zehnmal soviel Wasser und Brennstoff wie ein normaler Boiler, aber sein Ausstoß ist ebenfalls das Zehnfache. Der Schnellheizer muss aufwärmen und wird zu Beginn nicht so schnell und effizient produzieren, wie auf Betriebstemperatur.
 research.Tank.name=Dampfkessel
 research.Tank.0=Rohre sind großartig, um Dampf zu transportieren, aber ich bin es müde geworden, jedesmal die Boiler nachzufüllen, wenn ich Dampf brauche. Ich habe Kessel gebaut, um dieses Problem zu lösen. Sie speichern große Mengen Dampf, so dass ich ihn später verwenden kann.
+research.CreativeTank.name=Geheime Seite
+research.CreativeTank.0=Du hast ein Geheimnis gefunden!
 research.Pipe.name=Rohre
 research.Pipe.0=Dampf ist nutzlos ohne eine Möglichkeit ihn zu transportieren, aber ich habe einen effzienten Weg gefunden.<br>Messingrohre sind korrosionswiderständig und daher die perfekten Leiter für Dampf.
 research.Pipe.1=Ein Rohr mit einem Schalter zu kombinieren, erlaubt es mir den Dampffluss zu regulieren. Rechtsklick auf das Ventil öffnet oder schließt das Rohr.
@@ -97,6 +142,9 @@ research.Heater.name=Dampfheizung
 research.Heater.0=Jetzt kann ich Öfen mit Dampf betreiben in dem ich diese raffinierte Dampfheizung einsetze.<br>Dampf erhitzt die Kupferstangen und ermöglicht es einen Ofen ohne Brennstoff zu nutzen. Mehrere Dampfheizungen beschleunigen den Vorgang, verbrauchen aber auch mehr Dampf.
 research.Filler.name=Dampfinfusor
 research.Filler.0=Rohre sind gut um stationäre Maschinen zu betreiben, aber sie sind nicht geeignet für Werkzeuge und Rüstung. Dafür habe ich nun den Dampfinfusor.<br>Einfach ein dampfbetriebenes Gerät einlegen und abwarten.
+research.Filler.1=Zudem muss ich Gegenstände nicht einmal aus dem Dampfinfusor herausnehmen um zu sehen wie voll sie sind. Wenn ich einen Dampfmesser am Infusor anbringe zeigt dieser den Füllstand des Gegenstandes, der gerade gefüllt wird.
+research.FillingPad.name=Infusionsstation
+research.FillingPad.0=Es kann sehr lange dauern meine Dampfgetriebene Rüstung aufzufüllen. Deshalb habe ich ein Gerät gebaut, welches Rohre ausfärhrt und meine Rüstung auffüllt wenn ich darauf stehe. Und das circa doppelt so schnell wie der Dampfinfusor
 research.ItemMortar.name=Dampfmörser
 research.ItemMortar.0=Ich habe eine geniale Art und Weise erfunden, um Gegenstände zu transportieren - eine Dampfdruckkanone!<br>Dieser Dampfmörser schießt Gegenstände in steilem Winkel zum Himmel, damit sie am Zielort einschlagen.
 research.ItemMortar.1=Gegenstände werden einfach mit einem Trichter eingefüllt, das Ziel wird festgelegt und die Gegenstände fliegen.<br>Ein Astrolabium ist meine Wahl den Mörser zu kalibrieren. Zuerst mit Umschalttaste und Rechtklick auf den Zielort klicken, dann mit Rechtklick auf den Dampfmörser.
@@ -122,6 +170,53 @@ category.Exosuit.name=Dampfbetriebene Rüstung
 research.Exosuit.name=Dampfbetriebene Rüstung
 research.Exosuit.0=Ich gestalte mir die Welt nach meinen Vorstellungen durch die Kraft des Dampfes... Was kann ich noch verbessern, wenn nicht mich selbst?<br>Dafür habe ich eine Dampfbetriebene Rüstung entworfen.
 research.Exosuit.1=Der Rüstung können Module hinzugefügt werden an einem Konstruktionstisch. Aber vorerst muss ich einen Kessel in der quadratischen Auslassung platzieren. Dann kann ich die Rüstung mit Dampf versorgen.<br>Eine vollständige Dampfbetriebene Rüstung wird meine Bewegungs- und Abbaugeschwindigkeit erhöhen, aber ohne Dampf wird sie mich ausbremsen.
+
+research.ExoTank.name=Rüstungskessel
+research.ExoTank.0=Der wichtigste Teil der Rüstung ist der Kessel. Warum? Der Kessel speichert den Dampf der für das betreiben der Kolben und das benutzen von Upgrades nötig ist. Er wird im Bruststück eingebaut.
+research.ExoTankBase.name=Normaler Kessel
+research.ExoTankBase.0=Der einfachste zu benutzende Kessel ist der den ich auch in meinen stationären Bauten benutze. Er ist billig und einfach zu bauen, hat jedoch kein allzu großes Fassungsvermögen.
+research.ExoTankReinforced.name=Verstärkter Kessel
+research.ExoTankReinforced.0=Ich habe einen Kessel erfunden der speziell für die Dampfrüstung gemacht ist. Durch das Verstärken eines normalen Kessels mit Messing kann dieser mehr Dampf auf höherem Druck spiechern und hat somit ein circa doppelt so großes Fassungsvermögen wie der Normale.
+research.ExoTankUberReinforced.name=Extremstarker Kessel
+research.ExoTankUberReinforced.0=Ich habe einen, leider recht teuren, Weg gefunden, den Kessel noch stärker zu machen. Dieser Kessel kann extremem Druck standhalten und hat ein Fassungsvermögen welches circa. doppelt so groß ist wie das des verstärkten Kessels.
+
+research.ExoPlates.name=Rüstungsplatten
+research.ExoPlates.0=Die Dampfbetriebene Rüstung ansich bietet keinen großen Schutz. Rüstungsplatten daher sind eins der wichtigsten Upgrades, da sie dieses Problem lösen.
+research.ExoPlates.1=Alle Platten haben den gleichen Basiswert an Schutz (Etwa den von Eisenrüstung). Allerdings hat jedes Material gewisse vorteile. Zum Beispiel bietet Eisen guten Schutz gegen Projektile.
+research.PlateCopper.name=Kupferrüstungsplatten
+research.PlateCopper.0=Ich habe herausgefunden dass mich Kupfer besonders gut gegen Explosionen Schützt, also ist es besonders effektiv gegen Creeper oder Ghasts.
+research.PlateIron.name=Eisenrüstungsplatten
+research.PlateIron.0=Ich habe beim herumexperimentieren mit Metallen herausgefunden, das Eisen die Eigenschaft besitzt schnell fliegende Projektile aufzuhalen. Eisenrüstungsplatten sind also besonders nützlich wenn man es mit Skeletten oder anderen Fernkämpfern zu tun hat.
+research.PlateBrass.name=Messingrüstungplatten
+research.PlateBrass.0=Es hat sich herausgestellt das Messing dabei hilft den Körper vor großer Hitze abzuschirmen. Daher ist es besonders nützlich wenn man in Höhlen oder der Hölle unterwegs ist, da es einem wichtige Sekunden mehr zu leben verschafft.
+research.PlateGold.name=Goldrüstungsplatten
+research.PlateGold.0=Obwohl sich die Dampfbetriebene Rüstung nicht Verzaubern lässt hat Gold vorteile. Seine magischen Eigenschaften sorgen dafür das Monster mehr Erfahrung droppen.
+research.PlateThaumium.name=Thaumiumrüstungsplatten
+research.PlateThaumium.0=Verkleide ich meine Dampfbetriebene Rüstung mit Thaumium erhält sie magische Eigenschaften. Einen Vis-Discount von ca. 5%.
+research.PlateTerrasteel.name=Erdstahlrüstungsplatte
+research.PlateTerrasteel.0=Ich war mir nicht sicher ob es eine gute Idee sei Botanische und Technologische Fortschritte zu Kombinieren. Bis ich Versucht habe meine Dampfbetriebene Rüstung mit Erdstahl auszukleiden. Sie erhöht jetzt mein maximales Leben, wennauch weniger als Erdstahlrüstung er getan hätte.
+research.PlateElementium.name=Elementiumrüstungsplatte
+research.PlateElementium.0=Dieses Material der Elven Sorgt dafür dass Feen erscheinen und mir helfen wenn ich verletzt werde. Wennauch seltener als bei Elemtiumrüstung. Ich muss die Elven dringend Fragen ob sie auch Dampfbetriebene Rüstungen in Alfheim haben...
+research.PlateFiery.name=Feurige Rüstungsplatten
+research.PlateFiery.0=Ich habe es geschafft die Kraft der Hydra und die des Ur-Ghasts in meiner Dampfrütung zu verwenden. Durch die Verwendung von Feurigen Rüstungsplatten werden gegner bei Treffern manschmal angezündet.
+research.PlateYeti.name=Yeti Haut
+research.PlateYeti.0=Meine Gefährlichen ausfüge in die kalten Teile des Zwielichtwaldes haben sich sich gelohnt. Die zusammengenähte Alpha-Yeti Haut sorgt dafür dass Gegner einfrieren wenn sie es wagen mich anzugreifen.
+research.PlateSadist.name=Sadistic Exosuit Plate
+research.PlateSadist.0=Combining a few reinforced slates with a rune of self-sacrifice creates a rather powerful exosuit plate. This plate, when installed, adds a small amount of LP to my network whenever I take damage, rewarding me for pain.
+research.PlateLead.name=Bleirüstungsplatte
+research.PlateLead.0=Blei ist ein sehr schweres Metall und es ist, auch wenn ich empfehle nicht daran zu knabbern, ein sehr gutes Material zum verkleiden der Dampfrüstung. Es verringert den Rückstoß den ich erleide.
+research.PlateVibrant.name=Vibrant Plate
+research.PlateVibrant.0=Although I'm still not entirely sure how it works, I've been able to harness the mysterious ender properties of vibrant alloy for use in my exosuit. When I reach low health, I have a chance to dodge damage and teleport away.
+research.PlateEnderium.name=Enderiumrüstungsplatte
+research.PlateEnderium.0=Das Verkleiden meiner Rüstung mit diesem misteriösen Metall verschafft mir die Teleportation der Endermenschen als Waffe. Wenn ich getroffen werde besteht eine chance das der Angreifer wegteleportiert wird.
+
+research.ExoVanity.name=Deko-Fach
+research.ExoVanity.0=Die Dampfbetriebene Rüstung ist mehr als nur Vielseitig. Ich kann sie ganz nach meinen wünschen verändern.
+research.ExoDyes.name=Färben
+research.ExoDyes.0=Ich kann jeden gewöhnlichen Farbstoff ins Deko-Fach tun und so das Aussehen meiner Rüstung, aber nicht das der Upgrades verändern.
+research.EnderShroud.name=Endertarner
+research.EnderShroud.0=Der Endertarner erlaubt es mir meine Skin zu zeigen und gleichzeitig geschutzt zu sein indem er die Dampfrüstung Komplett Unsichtbar macht. Da das Gerät jedoch nicht Perfekt ist sieht man die rüstung flackern wenn ich getroffen werde.
+
 research.Jetpack.name=Turbinenrucksack
 research.Jetpack.0=Ich habe ein aufregendes Modul für das Bruststück der Dampfbetriebenen Rüstung entworfen, welches mich fliegen lässt.<br>Dieser dampfbetriebene Raketenrucksack verbraucht enorme Mengen Dampf, aber Fliegen ist unbezahlbar.
 research.Wings.name=Dampfflügel
@@ -171,7 +266,7 @@ enhancement.steamcraft:revolver=Revolver-Teile
 
 item.steamcraft:exoArmorHead.name=Helm der Dampfbetriebenen Rüstung
 item.steamcraft:exoArmorBody.name=Bruststück der Dampfbetriebenen Rüstung
-item.steamcraft:exoArmorLegs.name=Hose der Dampfbetriebenen Rüstung 
+item.steamcraft:exoArmorLegs.name=Hose der Dampfbetriebenen Rüstung
 item.steamcraft:exoArmorFeet.name=Stiefel der Dampfbetriebenen Rüstung
 
 item.steamcraft:ingot.0.name=Kupferbarren
@@ -204,7 +299,7 @@ item.steamcraft:smashedOre.PoorCopper.name=Zertrümmertes minderes Kupfererz
 item.steamcraft:smashedOre.PoorZinc.name=Zertrümmertes minderes Zinkerz
 item.steamcraft:smashedOre.PoorTin.name=Zertrümmertes minderes Zinnerz
 
-item.steamcraft:crafting.0.name=Messingkolben
+item.steamcraft:crafting.0.name=Dampfkolben
 item.steamcraft:crafting.1.name=Holzschaft
 item.steamcraft:crafting.2.name=Eisenlauf
 item.steamcraft:crafting.3.name=Donnerbüchsenlauf
